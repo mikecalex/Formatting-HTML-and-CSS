@@ -1,0 +1,51 @@
+/*Your styles here*/
+
+.purple-banner {
+  background-color: #40376E;
+}
+
+.green-banner {
+  background-color: #AAC0AA;
+}
+
+.gray-banner {
+  background-color: #7D8491;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #F5F5DC;
+  font-weight: bold;
+}
+img {
+  height: 200px;
+  width: 225px;
+}
+#textbox {
+    display: flex;
+    justify-content: space-between;
+    background-color: #F08080;
+}
+h1 {
+  text-decoration: underline;
+  font-size: 18px;
+}
+.alignleft {
+  font-family: serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+.aligncenter {
+  font-family: 'Space Mono', monospace;
+  font-weight: bold;
+  font-size: 18px;
+  text-decoration: underline;
+}
+ul {
+  font-weight: normal;
+}
+ul2 {
+  list-style: decimal;
+  text-indent: 1em;
+  font-weight: normal;
+}
